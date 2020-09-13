@@ -42,10 +42,18 @@
   This app is deployed by [maurya](https://github.com/).
 
 ## Demo
-  The link to the demo can be found [here]().
+  The link to the demo can be found [here](https://drive.google.com/file/d/1KEKq1qtaCXcoZMfCJYfSa3DIpvo7RsDg/view).
 
 ## Screenshots
+Workout Tracker home page serving on local host.
+![Workout Tracker home page serving on local host.](./assets/ss1.png)
 
+
+The dashboard showing all of the workouts in a pie and graphical chart on the heroku app.
+![alt text](./assets/ss3.png)
+
+The screenshot showing all workouts being added into the remote database. 
+![alt text](./assets/ss2.png)
 
 ## Contributors
   Anyone with a github account can contribute to this project. 
