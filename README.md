@@ -7,6 +7,7 @@
 - [Original Contributor](#Contributor)
 - [Deployer](#Deployer)
 - [Demo](#Demo)
+- [Link to the App](#App)
 - [Screenshots](#Screenshots)
 - [Contributors](#Contributors)
 - [Questions](#Questions)
@@ -43,6 +44,9 @@
 
 ## Demo
   The link to the demo can be found [here](https://drive.google.com/file/d/1KEKq1qtaCXcoZMfCJYfSa3DIpvo7RsDg/view).
+
+## App
+  The link to the app can be found [app](https://fitness-trackerr.herokuapp.com/?id=5f5da1ec7054cb0017bec71e).
 
 ## Screenshots
 Workout Tracker home page serving on local host.
