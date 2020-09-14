@@ -2,7 +2,7 @@
 const router = require('express').Router();
 const Workout = require('../models/workout');
 
-// Use 'db.Workout' to refernce the model and use the methods provided with the model to execute database operatioms
+// Use 'Workout' to refernce the model and use the methods provided with the model to execute database operatioms
 
 router.post('/api/workouts', ({body}, res) => {
   // Replace <METHOD> with method to create document in collection with data in req body
